@@ -1,7 +1,25 @@
 
+body{
+    background-color: white; 
+
+}
 h1 {
     font-family: dosis; 
 }
 h2{
-    font-family: 'Courier New', Courier, monospace; 
+    color: blueviolet; 
 }
+.two {
+    width:100px;
+    height:20px;
+    margin:1px;
+    display:block;
+    background-color: white; 
+    font: size 10pt;
+    color: black; 
+    font-family: 'Allerta Stencil', sans-serif;
+    text-align:center;
+    text-decoration: none; 
+    float: left;
+    padding: 3px;
+    }
