@@ -2,10 +2,15 @@
 
 h1 {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+    color: blue;
 }
 h2{
     color:#7AA3D6; 
 }
+h3{
+    color: #7AA3D6;
+}
+
 .one {
     width:100px;
     height:20px;
