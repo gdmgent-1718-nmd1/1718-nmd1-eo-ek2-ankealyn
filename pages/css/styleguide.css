@@ -6,7 +6,7 @@ h1 {
 h2{
     color:#7AA3D6; 
 }
-.two {
+.one {
     width:100px;
     height:20px;
     margin:1px;
@@ -20,3 +20,31 @@ h2{
     float: left;
     padding: 3px;
     }
+    .two {
+        width:100px;
+        height:20px;
+        margin:1px;
+        display:block;
+        background-color: white; 
+        font: size 10pt;
+        color: rgb(127, 145, 206); 
+        font-family: 'Allerta Stencil', sans-serif;
+        text-align:center;
+        text-decoration: none; 
+        float: left;
+        padding: 3px;
+        }
+        .three {
+            width:100px;
+            height:20px;
+            margin:1px;
+            display:block;
+            background-color: white; 
+            font: size 10pt;
+            color: rgb(127, 145, 206); 
+            font-family: 'Allerta Stencil', sans-serif;
+            text-align:center;
+            text-decoration: none; 
+            float: left;
+            padding: 3px;
+            }
