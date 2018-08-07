@@ -1,13 +1,10 @@
 
-body{
-    background-color: white; 
 
-}
 h1 {
-    font-family: dosis; 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
 }
 h2{
-    color: blueviolet; 
+    color:#7AA3D6; 
 }
 .two {
     width:100px;
@@ -16,7 +13,7 @@ h2{
     display:block;
     background-color: white; 
     font: size 10pt;
-    color: black; 
+    color: rgb(127, 145, 206); 
     font-family: 'Allerta Stencil', sans-serif;
     text-align:center;
     text-decoration: none; 
