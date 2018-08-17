@@ -54,3 +54,31 @@ h3{
             float: left;
             padding: 3px;
             }
+ .four {
+              width:100px;
+                height:20px;
+                margin:1px;
+                display:block;
+                background-color: white; 
+                font: size 10pt;
+                color: rgb(127, 145, 206); 
+                font-family: 'Allerta Stencil', sans-serif;
+                text-align:center;
+                text-decoration: none; 
+                float: left;
+                padding: 3px;
+                }
+                .five {
+                    width:100px;
+                    height:20px;
+                    margin:1px;
+                    display:block;
+                    background-color: white; 
+                    font: size 10pt;
+                    color: rgb(127, 145, 206); 
+                    font-family: 'Allerta Stencil', sans-serif;
+                    text-align:center;
+                    text-decoration: none; 
+                    float: left;
+                    padding: 3px;
+                    }               
